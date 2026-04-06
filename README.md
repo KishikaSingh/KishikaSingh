@@ -56,24 +56,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=KishikaSingh&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&show_icons=true" width="48%" alt="Kishika's GitHub Stats"/>
-  &nbsp;
-  <img src="https://nirzak-streak-stats.vercel.app/?user=KishikaSingh&theme=shadow_blue&hide_border=false" width="48%" alt="Kishika's GitHub Streak"/>
-
-</div>
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KishikaSingh&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="40%" alt="Kishika's Top Languages"/>
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1b2e,100:0d1117&height=100&section=footer" width="100%"/>
