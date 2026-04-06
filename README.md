@@ -65,7 +65,7 @@
 </div> -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b2e,100:0f3460&height=200&section=header&text=Hey,%20I'm%20Kishika%20Singh%20Golu%20%F0%9F%91%8B&fontSize=42&fontColor=e2e8f0&fontAlignY=38&desc=Builder%20%C2%B7%20Learner%20%C2%B7%20Explorer&descSize=18&descAlignY=58&descColor=94a3b8&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b2e,100:0f3460&height=200&section=header&text=Hey,%20I'm%20Kishika%20Singh%20%F0%9F%91%8B&fontSize=42&fontColor=e2e8f0&fontAlignY=38&desc=Builder%20%C2%B7%20Learner%20%C2%B7%20Explorer&descSize=18&descAlignY=58&descColor=94a3b8&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
