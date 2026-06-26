@@ -5,7 +5,7 @@
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-keshi._.noo-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/keshi._.noo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kishika%20Singh-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kishiksingh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kishika%20Singh-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kishikasingh)
 [![Gmail](https://img.shields.io/badge/Gmail-kishikasingh27-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kishikasingh27@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=KishikaSingh&style=flat-square&color=0f3460&label=Profile+Views)
 
