@@ -1,67 +1,148 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b2e,100:0f3460&height=200&section=header&text=Hey,%20I'm%20Kishika%20Singh%20%F0%9F%91%8B&fontSize=42&fontColor=e2e8f0&fontAlignY=38&desc=Builder%20%C2%B7%20Learner%20%C2%B7%20Explorer&descSize=18&descAlignY=58&descColor=94a3b8&animation=fadeIn" width="100%"/>
-</div>
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&color=0:050505,25:140508,55:2A0A0F,80:7F1220,100:C81E2D&text=Kishika%20Singh&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Cloud%20and%20DevOps%20Builder%20%C2%B7%20AWS%20Student%20Builder%20Group%20Leader&descSize=18&descAlignY=56&descColor=FFE4E6&animation=fadeIn"/>
 
-[![Instagram](https://img.shields.io/badge/Instagram-keshi._.noo-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/keshi._.noo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kishika%20Singh-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kishikasingh)
-[![Gmail](https://img.shields.io/badge/Gmail-kishikasingh27-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kishikasingh27@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=KishikaSingh&style=flat-square&color=0f3460&label=Profile+Views)
+<i>
+Great infrastructure feels effortless. I build systems that run quietly, scale calmly, and never need a second look.
+</i>
 
 </div>
 
 ---
 
-## 💫 About Me
+# Engineering Profile
 
-```text
-🎓  CSE Student @ KIET Group of Institutions
-🧩  Sharpening skills in DSA & Core CS Fundamentals
-🌐  Building real-world Web Development projects
-☁️  Exploring the world of Cloud Computing (AWS)
-🚀  Motto: Always Learning. Always Building.
-```
+Cloud & DevOps builder and **AWS Student Builder Group Leader at KIET**, engineering **serverless, event-driven, and containerized systems** with automation, security, and cost-efficiency at the core.
+
+I build platforms that **deploy cleanly, run on their own, and explain themselves**, and I teach the next wave of builders to do the same.
 
 ---
 
-## 💻 Tech Stack
+# Core Expertise
 
-### 🖥️ Languages
+- **Cloud Architecture** — Serverless and event-driven design on AWS
+- **Containerization** — Docker images built, shipped, and run on EC2
+- **Linux & Server Management** — Ubuntu, SSH, key pairs, and security groups
+- **Automation** — Python and Boto3 workflows that run without supervision
+- **FinOps** — Turning CloudWatch metrics into real cost-saving decisions
+- **Leadership & Public Speaking** — Building communities and teaching with clarity
 
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+---
 
-### 🎨 Frontend & Design
+# Impact
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
+- **7 days** of historical metrics analyzed per instance
+- **6+ AWS services** orchestrated in one serverless pipeline
+- **Zero-touch** scheduled cost reports, delivered by email
+- **Production-style** EC2 deployments, from provisioning to public access
+- **Least-privilege** IAM permissions by design
+- **Leading** the AWS Student Builder Group at KIET
 
-### ☁️ Cloud & Deployment
+---
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# Tech Stack
 
-### 🛠️ Tools & Workflow
+## Cloud & Infrastructure
 
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,ubuntu&theme=dark&perline=4"/>
+</p>
+
+<p align="center">
+<code>AWS</code>
+<code>Docker</code>
+<code>Linux</code>
+<code>Ubuntu</code>
+</p>
+
+---
+
+## Languages & Web
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,bash,js,html,css&theme=dark&perline=5"/>
+</p>
+
+<p align="center">
+<code>Python</code>
+<code>Boto3</code>
+<code>Bash</code>
+<code>JavaScript</code>
+<code>HTML</code>
+<code>CSS</code>
+</p>
+
+---
+
+## Design & Creative
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=figma&theme=dark&perline=1"/>
+</p>
+
+<p align="center">
+<code>Figma</code>
+<code>Graphic Design</code>
+<code>Copywriting</code>
+</p>
+
+---
+
+## Tooling
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=3"/>
+</p>
+
+<p align="center">
+<code>Git</code>
+<code>GitHub</code>
+<code>VS Code</code>
+</p>
+
+---
+
+# GitHub Statistics
+
+<div align="center">
+
+<img
+src="https://github-readme-streak-stats-eight.vercel.app?user=KishikaSingh&hide_border=true&background=050505&stroke=B91C1C&ring=EF4444&fire=F87171&currStreakLabel=FFE4E6&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FCA5A5"
+width="60%"
+/>
+
+</div>
+
+---
+
+# Reach Out
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kishikasingh/">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/KishikaSingh">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:kishikasingh27@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kishikasingh/"><b>LinkedIn</b></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/KishikaSingh"><b>GitHub</b></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:kishikasingh27@gmail.com"><b>Gmail</b></a>
+</p>
 
 ---
 
 <div align="center">
 
-*"Code is not just syntax — it's a way of thinking."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1b2e,100:0d1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:C81E2D,50:2A0A0F,100:050505&text=Reliable%20Systems%20%C2%B7%20Smart%20Automation%20%C2%B7%20Growing%20Together&fontSize=14&fontColor=FFE4E6&fontAlignY=55&animation=fadeIn"/>
 
 </div>
